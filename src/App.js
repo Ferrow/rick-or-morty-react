@@ -79,7 +79,7 @@ function App() {
           />
         </div>
 
-        {health.enemy > 0 && health.char ? (
+        {health.enemy > 0 && health.char > 0 ? (
           <button className="btn--attack" onClick={attack}>
             Attack
           </button>
