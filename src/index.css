@@ -68,6 +68,8 @@ h2 {
   width: 300px;
   height: 300px;
   object-fit: cover;
+  border-top-left-radius: 0.6em;
+  border-top-right-radius: 0.6em;
 }
 
 .btn--attack,
