@@ -164,10 +164,6 @@ function App() {
         <div className="idle--container">
           <h2 className="char--header">Choose your Character</h2>
           <div className="char--container">{allCharDataEl}</div>
-          <div className="buttons">
-            <button>Prev</button>
-            <button>Next</button>
-          </div>
         </div>
       )}
     </div>

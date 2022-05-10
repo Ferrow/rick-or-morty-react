@@ -130,10 +130,8 @@ h2 {
 .card--name--div {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   min-height: 80px;
-}
-
-.card--name--div p {
+  max-height: 130px;
 }
